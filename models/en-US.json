@@ -1,0 +1,95 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "quote of the day",
+      "intents": [
+        {
+          "name": "QuoteOfDayIntent",
+          "samples": [
+            "tell me today's quote"
+          ]
+        },
+        {
+          "name": "QuoteOfDayByCategoryIntent",
+          "slots": [
+            {
+              "name": "Category",
+              "type": "LIST_OF_CATEGORIES"
+            }
+          ],
+          "samples": [
+            "tell me {Category} quote",
+            "say {Category} quote",
+            "get me {Category} quote",
+            "get a quote for {Category} quote"
+          ]
+        },
+        {
+          "name": "GetCategoriesIntent",
+          "samples": [
+            "get categories"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "stop"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancel"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "inspire"
+              }
+            },
+            {
+              "name": {
+                "value": "management"
+              }
+            },
+            {
+              "name": {
+                "value": "sports"
+              }
+            },
+            {
+              "name": {
+                "value": "life"
+              }
+            },
+            {
+              "name": {
+                "value": "funny"
+              }
+            },
+            {
+              "name": {
+                "value": "love"
+              }
+            },
+            {
+              "name": {
+                "value": "art"
+              }
+            },
+            {
+              "name": {
+                "value": "students"
+              }
+            }
+          ],
+          "name": "LIST_OF_CATEGORIES"
+        }
+      ]
+    }
+  }
+}

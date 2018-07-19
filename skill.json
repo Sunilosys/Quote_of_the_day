@@ -1,0 +1,112 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "This skill allows users to get the quote of the day by category.",
+          "examplePhrases": [
+            "Alexa Open quote of the day",
+            "Alexa Start quote of the day",
+            "Alexa start quote of the day and tell me inspire quote"
+          ],
+          "keywords": [
+            "Quote",
+            "DailyQuote",
+            "Inspring"
+          ],
+          "name": "Quote of the day",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/34c670f5dd704d68ac6dd65dd32de182/APP_ICON?versionId=2x7Chj3Oacxs.R1RSUK9AqyxFF5X_k0A&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=PsUcP7MlvgtS7jbOMSgxmVqa4CI%3D",
+          "description": "This skill allow users to get the quote of the day from famous personality every day, the user can hear motivational quote and then keep themselves motivated throughout the day. \n\nTo get the quote of the day for a default category\nSay \"Alexa Open Quote of the day\" Or \"Alexa Ask Quote of the day\"\nDefault Category is Inspire.\n\nTo get all supported categories\nJust Say \"Alexa Open Quote Of The Day and Get Categories\".\n\nTo get the quote by the by a category\nJust Say \"Alexa Open Quote Of The Day and tell me a <CategoryName> quote. \n\nSupported Categories - Inspire, Management, Sports, Life, Funny, Love, Art and Students\n\nPowered by quotes from https://theysaidso.com",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f055680fae3c4fa7b29541c2af547e6a/APP_ICON_LARGE?versionId=bE0WYNaK51OpzIVHAaCM7wQZLtZxq5W9&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=rirTAY0H7triAOG7nnRRvk%2Fj2GU%3D"
+        },
+        "en-CA": {
+          "summary": "This skill allows users to get the quote of the day by category.",
+          "examplePhrases": [
+            "Alexa Open quote of the day",
+            "Alexa Start quote of the day",
+            "Alexa start quote of the day and tell me inspire quote"
+          ],
+          "keywords": [
+            "Quote",
+            "DailyQuote",
+            "Inspring"
+          ],
+          "name": "Quote of the day",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/34c670f5dd704d68ac6dd65dd32de182/APP_ICON?versionId=2x7Chj3Oacxs.R1RSUK9AqyxFF5X_k0A&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=PsUcP7MlvgtS7jbOMSgxmVqa4CI%3D",
+          "description": "This skill allow users to get the quote of the day from famous personality every day, the user can hear motivational quote and then keep themselves motivated throughout the day. \n\nTo get the quote of the day for a default category\nSay \"Alexa Open Quote of the day\" Or \"Alexa Ask Quote of the day\"\nDefault Category is Inspire.\n\nTo get all supported categories\nJust Say \"Alexa Open Quote Of The Day and Get Categories\".\n\nTo get the quote by the by a category\nJust Say \"Alexa Open Quote Of The Day and tell me a <CategoryName> quote. \n\nSupported Categories - Inspire, Management, Sports, Life, Funny, Love, Art and Students\n\nPowered by quotes from https://theysaidso.com",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f055680fae3c4fa7b29541c2af547e6a/APP_ICON_LARGE?versionId=bE0WYNaK51OpzIVHAaCM7wQZLtZxq5W9&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=rirTAY0H7triAOG7nnRRvk%2Fj2GU%3D"
+        },
+        "en-IN": {
+          "summary": "This skill allows users to get the quote of the day by category.",
+          "examplePhrases": [
+            "Alexa Open quote of the day",
+            "Alexa Start quote of the day",
+            "Alexa start quote of the day and tell me inspire quote"
+          ],
+          "keywords": [
+            "Quote",
+            "DailyQuote",
+            "Inspring"
+          ],
+          "name": "Quote of the day",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/34c670f5dd704d68ac6dd65dd32de182/APP_ICON?versionId=2x7Chj3Oacxs.R1RSUK9AqyxFF5X_k0A&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=PsUcP7MlvgtS7jbOMSgxmVqa4CI%3D",
+          "description": "This skill allow users to get the quote of the day from famous personality every day, the user can hear motivational quote and then keep themselves motivated throughout the day. \n\nTo get the quote of the day for a default category\nSay \"Alexa Open Quote of the day\" Or \"Alexa Ask Quote of the day\"\nDefault Category is Inspire.\n\nTo get all supported categories\nJust Say \"Alexa Open Quote Of The Day and Get Categories\".\n\nTo get the quote by the by a category\nJust Say \"Alexa Open Quote Of The Day and tell me a <CategoryName> quote. \n\nSupported Categories - Inspire, Management, Sports, Life, Funny, Love, Art and Students\n\nPowered by quotes from https://theysaidso.com",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f055680fae3c4fa7b29541c2af547e6a/APP_ICON_LARGE?versionId=bE0WYNaK51OpzIVHAaCM7wQZLtZxq5W9&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=rirTAY0H7triAOG7nnRRvk%2Fj2GU%3D"
+        },
+        "en-AU": {
+          "summary": "This skill allows users to get the quote of the day by category.",
+          "examplePhrases": [
+            "Alexa Open quote of the day",
+            "Alexa Start quote of the day",
+            "Alexa start quote of the day and tell me inspire quote"
+          ],
+          "keywords": [
+            "Quote",
+            "DailyQuote",
+            "Inspring"
+          ],
+          "name": "Quote of the day",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/34c670f5dd704d68ac6dd65dd32de182/APP_ICON?versionId=2x7Chj3Oacxs.R1RSUK9AqyxFF5X_k0A&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=PsUcP7MlvgtS7jbOMSgxmVqa4CI%3D",
+          "description": "This skill allow users to get the quote of the day from famous personality every day, the user can hear motivational quote and then keep themselves motivated throughout the day. \n\nTo get the quote of the day for a default category\nSay \"Alexa Open Quote of the day\" Or \"Alexa Ask Quote of the day\"\nDefault Category is Inspire.\n\nTo get all supported categories\nJust Say \"Alexa Open Quote Of The Day and Get Categories\".\n\nTo get the quote by the by a category\nJust Say \"Alexa Open Quote Of The Day and tell me a <CategoryName> quote. \n\nSupported Categories - Inspire, Management, Sports, Life, Funny, Love, Art and Students\n\nPowered by quotes from https://theysaidso.com",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f055680fae3c4fa7b29541c2af547e6a/APP_ICON_LARGE?versionId=bE0WYNaK51OpzIVHAaCM7wQZLtZxq5W9&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=rirTAY0H7triAOG7nnRRvk%2Fj2GU%3D"
+        },
+        "en-GB": {
+          "summary": "This skill allows users to get the quote of the day by category.",
+          "examplePhrases": [
+            "Alexa Open quote of the day",
+            "Alexa Start quote of the day",
+            "Alexa start quote of the day and tell me inspire quote"
+          ],
+          "keywords": [
+            "Quote",
+            "DailyQuote",
+            "Inspring"
+          ],
+          "name": "Quote of the day",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/34c670f5dd704d68ac6dd65dd32de182/APP_ICON?versionId=2x7Chj3Oacxs.R1RSUK9AqyxFF5X_k0A&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=PsUcP7MlvgtS7jbOMSgxmVqa4CI%3D",
+          "description": "This skill allow users to get the quote of the day from famous personality every day, the user can hear motivational quote and then keep themselves motivated throughout the day. \n\nTo get the quote of the day for a default category\nSay \"Alexa Open Quote of the day\" Or \"Alexa Ask Quote of the day\"\nDefault Category is Inspire.\n\nTo get all supported categories\nJust Say \"Alexa Open Quote Of The Day and Get Categories\".\n\nTo get the quote by the by a category\nJust Say \"Alexa Open Quote Of The Day and tell me a <CategoryName> quote. \n\nSupported Categories - Inspire, Management, Sports, Life, Funny, Love, Art and Students\n\nPowered by quotes from https://theysaidso.com",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f055680fae3c4fa7b29541c2af547e6a/APP_ICON_LARGE?versionId=bE0WYNaK51OpzIVHAaCM7wQZLtZxq5W9&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074410&Signature=rirTAY0H7triAOG7nnRRvk%2Fj2GU%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No Special Instructions",
+      "category": "SELF_IMPROVEMENT",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_QuoteOfTheDay"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

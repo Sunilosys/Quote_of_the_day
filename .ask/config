@@ -1,0 +1,52 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.65011c0c-97cd-4190-b47d-a6dc8cb921b3",
+      "was_cloned": true,
+      "resources": {
+        "manifest": {
+          "eTag": "cc49335002550cc1d8780f6dfcfbd78b"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "c1b2c3935eaa701adab0981474dafdf8"
+          },
+          "en-CA": {
+            "eTag": "c1b2c3935eaa701adab0981474dafdf8"
+          },
+          "en-IN": {
+            "eTag": "c1b2c3935eaa701adab0981474dafdf8"
+          },
+          "en-AU": {
+            "eTag": "c1b2c3935eaa701adab0981474dafdf8"
+          },
+          "en-GB": {
+            "eTag": "c1b2c3935eaa701adab0981474dafdf8"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:471325060569:function:QuoteOfTheDay",
+            "awsRegion": "us-east-1",
+            "functionName": "QuoteOfTheDay",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "d73fada1-15c0-4559-a162-1fc767bc38d6"
+          }
+        ]
+      },
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:471325060569:function:QuoteOfTheDay"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
